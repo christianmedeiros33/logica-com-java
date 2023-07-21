@@ -7,6 +7,5 @@ public class ReuseVariables {
         System.out.println(result);
         result = salary * 0.05;
         System.out.println(result);
-
     }
 }
