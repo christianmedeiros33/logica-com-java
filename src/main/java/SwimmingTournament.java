@@ -1,7 +1,12 @@
+import java.util.Scanner;
+
 public class SwimmingTournament {
     public static void main(String[] args) {
-        String name = "Pedro";
-        int age = 19;
+        Scanner person = new Scanner(System.in);
+        System.out.println("Qual seu nome? ");
+        String name = person.next();
+        System.out.println("Qual sua idade? ");
+        int age = person.nextInt();
         if (age < 11) {
             System.out.println(name + " participará da categoria Infantil");
         } else if (age >= 11 && age <= 15) {
