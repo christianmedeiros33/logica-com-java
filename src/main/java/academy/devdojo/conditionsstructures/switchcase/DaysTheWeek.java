@@ -31,6 +31,4 @@ public class DaysTheWeek {
                 System.out.println("Dia invalido.");
         }
     }
-
-
 }
