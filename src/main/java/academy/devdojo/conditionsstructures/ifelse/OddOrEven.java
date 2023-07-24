@@ -1,4 +1,4 @@
-package academy.devdojo.conditionsstructures;
+package academy.devdojo.conditionsstructures.ifelse;
 
 public class OddOrEven {
     public static void main(String[] args) {

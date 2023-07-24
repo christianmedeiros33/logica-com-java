@@ -1,4 +1,4 @@
-package academy.devdojo.conditionsstructures;
+package academy.devdojo.conditionsstructures.ifelse;
 
 import java.util.Scanner;
 

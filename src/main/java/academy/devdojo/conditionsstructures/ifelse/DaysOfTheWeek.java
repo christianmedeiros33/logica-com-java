@@ -1,4 +1,4 @@
-package academy.devdojo.conditionsstructures;
+package academy.devdojo.conditionsstructures.ifelse;
 
 public class DaysOfTheWeek {
     public static void main(String[] args) {
