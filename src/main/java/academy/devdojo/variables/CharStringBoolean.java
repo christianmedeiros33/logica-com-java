@@ -1,3 +1,5 @@
+package academy.devdojo.variables;
+
 public class CharStringBoolean {
     public static void main(String[] args) {
         char maiusculo = 'M';

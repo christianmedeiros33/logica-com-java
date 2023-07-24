@@ -1,3 +1,5 @@
+package academy.devdojo.conditionsstructures;
+
 import java.util.Scanner;
 
 public class Enlistment {

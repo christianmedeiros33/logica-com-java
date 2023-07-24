@@ -1,3 +1,5 @@
+package academy.devdojo.conditionsstructures;
+
 public class SalaryCondition {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package academy.devdojo.variables;
+
 public class TimeAndDistance {
     public static void main(String[] args) {
         System.out.println("====== Distance traveled ======");

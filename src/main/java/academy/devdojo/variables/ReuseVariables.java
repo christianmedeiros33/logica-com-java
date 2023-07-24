@@ -1,3 +1,5 @@
+package academy.devdojo.variables;
+
 public class ReuseVariables {
     public static void main(String[] args) {
         double salary = 5000;

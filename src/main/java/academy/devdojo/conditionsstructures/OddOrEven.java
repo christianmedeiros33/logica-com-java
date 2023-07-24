@@ -1,3 +1,5 @@
+package academy.devdojo.conditionsstructures;
+
 public class OddOrEven {
     public static void main(String[] args) {
         int number = 3 ;

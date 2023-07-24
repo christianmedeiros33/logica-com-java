@@ -1,3 +1,5 @@
+package academy.devdojo.conditionsstructures;
+
 public class DaysOfTheWeek {
     public static void main(String[] args) {
         int day = 9;
@@ -8,6 +10,7 @@ public class DaysOfTheWeek {
             System.out.println("terça");
         } else if (day == 3) {
             System.out.println("quarta");
+
         } else if (day == 4) {
             System.out.println("quinta");
         } else if (day == 5) {
