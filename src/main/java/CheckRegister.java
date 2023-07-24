@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class verificRegister {
+public class CheckRegister {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Digitar seu nome: ");
