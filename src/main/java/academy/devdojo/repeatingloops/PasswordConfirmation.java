@@ -7,16 +7,13 @@ public class PasswordConfirmation {
 
         final String username = "1234";
         final String password = "1234";
-        boolean exibirTelaDeLogin = true;
         Scanner scanner = new Scanner(System.in);
 
-        while (exibirTelaDeLogin) {
-
+        while (true) {
             System.out.println("Digite seu login.");
             String inputUsername = scanner.nextLine();
             System.out.println("Digite sua senha.");
             String inputPassword = scanner.nextLine();
-
             if (username.equals(inputUsername) && password.equals(inputPassword)) {
                 System.out.println("acesso concedido");
                 break;
