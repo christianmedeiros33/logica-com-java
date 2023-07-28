@@ -9,7 +9,7 @@ public class PasswordConfirmation {
         final String password = "1234";
         Scanner scanner = new Scanner(System.in);
 
-        while (true) {
+        while (true) { 
             System.out.println("Digite seu login.");
             String inputUsername = scanner.nextLine();
             System.out.println("Digite sua senha.");
