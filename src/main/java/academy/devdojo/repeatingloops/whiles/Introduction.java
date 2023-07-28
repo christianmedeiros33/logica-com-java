@@ -1,4 +1,4 @@
-package academy.devdojo.repeatingloops;
+package academy.devdojo.repeatingloops.whiles;
 
 public class Introduction {
     public static void main(String[] args) {

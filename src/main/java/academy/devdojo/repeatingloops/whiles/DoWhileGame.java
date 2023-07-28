@@ -1,4 +1,4 @@
-package academy.devdojo.repeatingloops;
+package academy.devdojo.repeatingloops.whiles;
 
 import java.util.Scanner;
 
