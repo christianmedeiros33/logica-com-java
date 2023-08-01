@@ -1,6 +1,6 @@
 package academy.devdojo.arrays;
 
-public class introductionArrays {
+public class IntroductionArrays {
     public static void main(String[] args) {
 
         double nota1 = 5.5;

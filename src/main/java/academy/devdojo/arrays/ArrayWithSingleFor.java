@@ -2,7 +2,7 @@ package academy.devdojo.arrays;
 
 import java.util.Scanner;
 
-public class arrayWithSingleFor {
+public class ArrayWithSingleFor {
     public static void main(String[] args) {
 
         double[] notes = new double[4];
